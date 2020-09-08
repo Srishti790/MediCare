@@ -1,0 +1,20 @@
+/*home page*/
+
+@media(min-width:991px){                            /*desktop style*/
+.sidebar-btn-area{
+    display: none;
+}
+.sidebar_wrapper{
+    display:none;
+}
+
+}
+@media(max-width:991px){                           /*Mobile style*/
+ 
+    .fh5co-nav{
+        display:none;
+    }
+    .header-section{
+        display:none;
+    }
+}
